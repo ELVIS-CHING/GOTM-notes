@@ -1,6 +1,8 @@
 # GOTM-notes
 personal notes for using GOTM
 
+## BACKGROUND  
+
 - **GOTM**  
   [GOTM](https://gotm.net/portfolio/) is the result of the effort by a number of people to make 'state-of-the-art' turbulence model for natural waters.
   
